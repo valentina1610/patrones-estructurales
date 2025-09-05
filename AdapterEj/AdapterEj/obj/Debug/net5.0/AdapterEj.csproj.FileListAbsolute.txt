@@ -1,0 +1,16 @@
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\bin\Debug\net5.0\AdapterEj.exe
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\bin\Debug\net5.0\AdapterEj.deps.json
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\bin\Debug\net5.0\AdapterEj.runtimeconfig.json
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\bin\Debug\net5.0\AdapterEj.runtimeconfig.dev.json
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\bin\Debug\net5.0\AdapterEj.dll
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\bin\Debug\net5.0\AdapterEj.pdb
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\obj\Debug\net5.0\AdapterEj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\obj\Debug\net5.0\AdapterEj.AssemblyInfoInputs.cache
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\obj\Debug\net5.0\AdapterEj.AssemblyInfo.cs
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\obj\Debug\net5.0\AdapterEj.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\obj\Debug\net5.0\AdapterEj.sourcelink.json
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\obj\Debug\net5.0\AdapterEj.dll
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\obj\Debug\net5.0\refint\AdapterEj.dll
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\obj\Debug\net5.0\AdapterEj.pdb
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\obj\Debug\net5.0\AdapterEj.genruntimeconfig.cache
+C:\Users\gc\source\repos\guia patrones estructurales\AdapterEj\AdapterEj\obj\Debug\net5.0\ref\AdapterEj.dll

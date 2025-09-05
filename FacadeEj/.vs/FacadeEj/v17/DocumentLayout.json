@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC63AAB-D02A-417C-A530-FAFB8C7503A8}|FacadeEj\\FacadeEj.csproj|c:\\users\\gc\\source\\repos\\guia patrones estructurales\\facadeej\\facadeej\\fachada\\userfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC63AAB-D02A-417C-A530-FAFB8C7503A8}|FacadeEj\\FacadeEj.csproj|solutionrelative:facadeej\\fachada\\userfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC63AAB-D02A-417C-A530-FAFB8C7503A8}|FacadeEj\\FacadeEj.csproj|c:\\users\\gc\\source\\repos\\guia patrones estructurales\\facadeej\\facadeej\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC63AAB-D02A-417C-A530-FAFB8C7503A8}|FacadeEj\\FacadeEj.csproj|solutionrelative:facadeej\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC63AAB-D02A-417C-A530-FAFB8C7503A8}|FacadeEj\\FacadeEj.csproj|c:\\users\\gc\\source\\repos\\guia patrones estructurales\\facadeej\\facadeej\\clases\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC63AAB-D02A-417C-A530-FAFB8C7503A8}|FacadeEj\\FacadeEj.csproj|solutionrelative:facadeej\\clases\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC63AAB-D02A-417C-A530-FAFB8C7503A8}|FacadeEj\\FacadeEj.csproj|c:\\users\\gc\\source\\repos\\guia patrones estructurales\\facadeej\\facadeej\\clases\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC63AAB-D02A-417C-A530-FAFB8C7503A8}|FacadeEj\\FacadeEj.csproj|solutionrelative:facadeej\\clases\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC63AAB-D02A-417C-A530-FAFB8C7503A8}|FacadeEj\\FacadeEj.csproj|c:\\users\\gc\\source\\repos\\guia patrones estructurales\\facadeej\\facadeej\\clases\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CC63AAB-D02A-417C-A530-FAFB8C7503A8}|FacadeEj\\FacadeEj.csproj|solutionrelative:facadeej\\clases\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC63AAB-D02A-417C-A530-FAFB8C7503A8}|FacadeEj\\FacadeEj.csproj|c:\\users\\gc\\source\\repos\\guia patrones estructurales\\facadeej\\facadeej\\facadeej.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CC63AAB-D02A-417C-A530-FAFB8C7503A8}|FacadeEj\\FacadeEj.csproj|solutionrelative:facadeej\\facadeej.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\FacadeEj\\Program.cs",
+              "RelativeDocumentMoniker": "FacadeEj\\Program.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\FacadeEj\\Program.cs",
+              "RelativeToolTip": "FacadeEj\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:13:08.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\FacadeEj\\Clases\\EmailSender.cs",
+              "RelativeDocumentMoniker": "FacadeEj\\Clases\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\FacadeEj\\Clases\\EmailSender.cs",
+              "RelativeToolTip": "FacadeEj\\Clases\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:28:46.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBService.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\FacadeEj\\Clases\\DBService.cs",
+              "RelativeDocumentMoniker": "FacadeEj\\Clases\\DBService.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\FacadeEj\\Clases\\DBService.cs",
+              "RelativeToolTip": "FacadeEj\\Clases\\DBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:16:55.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserFacade.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\FacadeEj\\Fachada\\UserFacade.cs",
+              "RelativeDocumentMoniker": "FacadeEj\\Fachada\\UserFacade.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\FacadeEj\\Fachada\\UserFacade.cs",
+              "RelativeToolTip": "FacadeEj\\Fachada\\UserFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:30:08.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\FacadeEj\\Clases\\EmailValidator.cs",
+              "RelativeDocumentMoniker": "FacadeEj\\Clases\\EmailValidator.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\FacadeEj\\Clases\\EmailValidator.cs",
+              "RelativeToolTip": "FacadeEj\\Clases\\EmailValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:19:46.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FacadeEj",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\FacadeEj\\FacadeEj.csproj",
+              "RelativeDocumentMoniker": "FacadeEj\\FacadeEj.csproj",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones estructurales\\FacadeEj\\FacadeEj\\FacadeEj.csproj",
+              "RelativeToolTip": "FacadeEj\\FacadeEj.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T20:13:29.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\bin\Debug\net5.0\FacadeEj.exe
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\bin\Debug\net5.0\FacadeEj.deps.json
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\bin\Debug\net5.0\FacadeEj.runtimeconfig.json
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\bin\Debug\net5.0\FacadeEj.runtimeconfig.dev.json
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\bin\Debug\net5.0\FacadeEj.dll
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\bin\Debug\net5.0\FacadeEj.pdb
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\obj\Debug\net5.0\FacadeEj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\obj\Debug\net5.0\FacadeEj.AssemblyInfoInputs.cache
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\obj\Debug\net5.0\FacadeEj.AssemblyInfo.cs
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\obj\Debug\net5.0\FacadeEj.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\obj\Debug\net5.0\FacadeEj.sourcelink.json
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\obj\Debug\net5.0\FacadeEj.dll
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\obj\Debug\net5.0\refint\FacadeEj.dll
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\obj\Debug\net5.0\FacadeEj.pdb
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\obj\Debug\net5.0\FacadeEj.genruntimeconfig.cache
+C:\Users\gc\source\repos\guia patrones estructurales\FacadeEj\FacadeEj\obj\Debug\net5.0\ref\FacadeEj.dll

@@ -1,0 +1,16 @@
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\bin\Debug\net5.0\DecoratorEj.exe
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\bin\Debug\net5.0\DecoratorEj.deps.json
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\bin\Debug\net5.0\DecoratorEj.runtimeconfig.json
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\bin\Debug\net5.0\DecoratorEj.runtimeconfig.dev.json
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\bin\Debug\net5.0\DecoratorEj.dll
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\bin\Debug\net5.0\DecoratorEj.pdb
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\obj\Debug\net5.0\DecoratorEj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\obj\Debug\net5.0\DecoratorEj.AssemblyInfoInputs.cache
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\obj\Debug\net5.0\DecoratorEj.AssemblyInfo.cs
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\obj\Debug\net5.0\DecoratorEj.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\obj\Debug\net5.0\DecoratorEj.sourcelink.json
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\obj\Debug\net5.0\DecoratorEj.dll
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\obj\Debug\net5.0\refint\DecoratorEj.dll
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\obj\Debug\net5.0\DecoratorEj.pdb
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\obj\Debug\net5.0\DecoratorEj.genruntimeconfig.cache
+C:\Users\gc\source\repos\guia patrones estructurales\DecoratorEj\DecoratorEj\obj\Debug\net5.0\ref\DecoratorEj.dll
